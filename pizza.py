@@ -37,3 +37,4 @@ drink_pay = drinks*9
 bill += drink_pay
 
 print(f"Your bill is ${bill}")
+# https://www.youtube.com/watch?v=Z158ddgJ7S0&list=PLSzsOkUDsvdvGZ2fXGizY_Iz9j8-ZlLqh&index=33
